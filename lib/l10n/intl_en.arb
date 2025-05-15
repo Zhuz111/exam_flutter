@@ -1,0 +1,8 @@
+{
+  "@@locale": "en",
+  "appTitle": "My App",
+  "home": "Home",
+  "tasks": "Tasks",
+  "profile": "Profile",
+  "settings": "Settings"
+}

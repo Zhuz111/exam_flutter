@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "740984318716",
+    "project_id": "examflutter-ac236",
+    "storage_bucket": "examflutter-ac236.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740984318716:android:204a78fca7d85bf9e20579",
+        "android_client_info": {
+          "package_name": "com.zhuldyz.examflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8H7Xtrplf3_F2uR8oGid_QsoDHyU-uuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
