@@ -1,8 +1,9 @@
 {
   "@@locale": "kk",
-  "appTitle": "Менің қосымшам",
-  "home": "Басты бет",
-  "tasks": "Тапсырмалар",
-  "profile": "Профиль",
-  "settings": "Параметрлер"
+  "login": "Кіру",
+  "email": "Эл. пошта",
+  "password": "Құпия сөз",
+  "loginFailed": "Кіру сәтсіз аяқталды. Қайта көріңіз.",
+  "emailRequired": "Эл. пошта қажет",
+  "passwordRequired": "Құпия сөз қажет"
 }

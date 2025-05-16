@@ -1,8 +1,9 @@
 {
   "@@locale": "ru",
-  "appTitle": "Моё приложение",
-  "home": "Главная",
-  "tasks": "Задачи",
-  "profile": "Профиль",
-  "settings": "Настройки"
+  "login": "Вход",
+  "email": "Эл. почта",
+  "password": "Пароль",
+  "loginFailed": "Ошибка входа. Попробуйте снова.",
+  "emailRequired": "Введите эл. почту",
+  "passwordRequired": "Введите пароль"
 }

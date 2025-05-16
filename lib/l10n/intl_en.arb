@@ -1,8 +1,9 @@
 {
   "@@locale": "en",
-  "appTitle": "My App",
-  "home": "Home",
-  "tasks": "Tasks",
-  "profile": "Profile",
-  "settings": "Settings"
+  "login": "Login",
+  "email": "Email",
+  "password": "Password",
+  "loginFailed": "Login failed. Please try again.",
+  "emailRequired": "Email is required",
+  "passwordRequired": "Password is required"
 }

@@ -79,6 +79,18 @@ class S {
   String get settings {
     return Intl.message('Settings', name: 'settings', desc: '', args: []);
   }
+
+  String? get welcome => null;
+
+  String? get login => null;
+
+  get email => null;
+
+  Widget? get emailRequired => null;
+
+  get password => null;
+
+  Widget? get passwordRequired => null;
 }
 
 class AppLocalizationDelegate extends LocalizationsDelegate<S> {
